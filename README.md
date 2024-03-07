@@ -1,5 +1,3 @@
-# Developer Kit
-
 The Developer Kit is a collection of tools and information to get you quickly started using the RVM and it's applications.
 
 ## Insomnia Collection
