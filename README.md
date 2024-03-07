@@ -6,7 +6,7 @@ The Developer Kit is a collection of tools and information to get you quickly st
 
 The Insomnia Collection is a collection of RadioGraphQL Behavior examples to help you get going.
 
-They can be found [here](Insomnia_2024-03-07.json)
+It can be found [here](Insomnia_2024-03-07.json)
 
 ## Radiograph VM Console
 
