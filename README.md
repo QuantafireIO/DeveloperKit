@@ -10,7 +10,7 @@ The pattern for selecting an RVM, and a Schema to use with the console is as fol
 https://console.quantafire.io/{RVM Id}/{Vendor}/{Schema}
 ```
 
-So if I wanted to access an RVM with an Id of `065e9de5-d9e1-79bf-8000-6c020c141317`, and I wanted to explore the Abacus Schema (Application) the URL would be
+So if I wanted to use the Console with an RVM that has an Id of `065e9de5-d9e1-79bf-8000-6c020c141317`, and I wanted to explore the Abacus Schema (Application) the URL would be,
 
 ```
 https://console.quantafire.io/065e9de5-d9e1-79bf-8000-6c020c141317/Quantafire/Abacus
@@ -19,6 +19,20 @@ https://console.quantafire.io/065e9de5-d9e1-79bf-8000-6c020c141317/Quantafire/Ab
 The Console is built using [graphiql](https://github.com/graphql/graphiql) and has Documentation and Explorer views.
 ![Th RVM Console Documentation view](Images/Console1.png)
 ![Th RVM Console Explorer view](Images/Console2.png)
+
+## Accessing an RVM
+
+The pattern for accessing an RVM is similar to the console and is as follows,
+
+```
+https://rvm.quantafire.io/{RVM Id}/{Vendor}/{Schema}
+```
+
+So if I wanted to access an RVM with an Id of `065e9de5-d9e1-79bf-8000-6c020c141317`, and I wanted to use the Abacus Schema (Application) the URL would be,
+
+```
+https://rvm.quantafire.io/065e9de5-d9e1-79bf-8000-6c020c141317/Quantafire/Abacus
+```
 
 ## Product Site
 
