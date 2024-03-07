@@ -9,11 +9,11 @@ The Insomnia Collection is a collection of RadioGraphQL Behavior examples to hel
 
 It can be found [here](Insomnia_2024-03-07.json)
 
-## Radiograph VM Console
+## RadioGraphQL Console
 
-The RVM Console is a tool that can be used as a friendly way to explore the Schemas and Behaviors that are available on an RVM.
+The RadioGraphQL Console is a tool that can be used as a friendly way to explore the Schemas and Behaviors that are available on an RVM.
 
-The pattern for selecting an RVM, and a Schema to use with the console is as follows,
+The pattern for selecting an RVM, and a Schema to use with the Console is as follows,
 
 ```
 https://console.quantafire.io/{RVM Id}/{Vendor}/{Schema}
@@ -31,7 +31,7 @@ The Console is built using [graphiql](https://github.com/graphql/graphiql) and h
 
 ## Accessing an RVM
 
-The pattern for accessing an RVM is similar to the console and is as follows,
+The pattern for accessing an RVM is similar to the Console and is as follows,
 
 ```
 https://rvm.quantafire.io/{RVM Id}/{Vendor}/{Schema}
