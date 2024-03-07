@@ -1,4 +1,12 @@
-# DeveloperKit
+# Developer Kit
+
+The Developer Kit is a collection of tools and information to get you quickly started using the RVM and it's applications.
+
+## Insomnia Collection
+
+The Insomnia Collection is a collection of RadioGraphQL Behavior examples to help you get going.
+
+They can be found [here](Insomnia_2024-03-07.json)
 
 ## Radiograph VM Console
 
@@ -45,9 +53,3 @@ https://www.quantafire.io/
 ```
 
 Your username is your first name (lower case) and your password is your phone number (as a string of numbers without any other characters).
-
-## Insomnia Collection
-
-The Insomnia Collection is a collection of RadioGraphQL Behavior examples to help you get going.
-
-They can be found [here](Insomnia_2024-03-07.json)
