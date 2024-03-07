@@ -1,6 +1,7 @@
 The Developer Kit is a collection of tools and information to get you quickly started using the RVM and it's applications.
 
-The GitHub repository is located [here](https://github.com/QuantafireIO/DeveloperKit).
+* The GitHub repository is located [here](https://github.com/QuantafireIO/DeveloperKit).
+* The GitHub Pages site is located [here](https://quantafireio.github.io/DeveloperKit/).
 
 ## Insomnia Collection
 
