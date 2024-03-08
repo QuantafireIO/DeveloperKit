@@ -16,6 +16,6 @@ while true; do
 done
 echo "Declaring that no previous Radiograph release number example test(s) fail."
 echo "Creating Radiograph release number $NextRelease..."
-printf "%s\n" '' hc| gh release create "$NextRelease" -t "$NextRelease"
+printf "%s\n" '' hc| gh release create "$NextRelease" -t "$NextRelease" --generate-notes
 echo "Fetching from origin..."
 git fetch
