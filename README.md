@@ -46,9 +46,9 @@ https://rvm.quantafire.io/065e9de5-d9e1-79bf-8000-6c020c141317/Quantafire/Abacus
 
 ## Product Site
 
-The Product site has additional documentation and context about the various Behaviors in each Schema, as well as more detailed information about the RVM, but it is not necessary to get started.
+The [Product site](https://www.quantafire.io/) has additional documentation and context about the various Behaviors in each Schema, as well as more detailed information about the RVM, but it is not necessary to get started.
 
-The Product Site can be reached at
+The [Product Site](https://www.quantafire.io/) can be reached at
 
 ```
 https://www.quantafire.io/
